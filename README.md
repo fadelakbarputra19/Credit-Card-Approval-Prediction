@@ -27,7 +27,7 @@ At present, with the development of machine learning algorithms. More predictive
 |FLAG_EMAIL	|Is there an email	
 |OCCUPATION_TYPE|	Occupation	|
 |CNT_FAM_MEMBERS|	Family size	
-#### A. credit_record
+#### B. credit_record
 | Feature Name | Explanation | Remarks |
 | ------------- | ------------- | ------------- |
 | ID | Client number 
